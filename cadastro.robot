@@ -4,6 +4,7 @@ Resource                ../walkdog/resources/base.resource
 Test Setup              Start Session
 Test Teardown           Finish Session
 
+
 *** Test Cases ***
 Cadastro de Dog Walker com Sucesso
     [Tags]              happy_path
